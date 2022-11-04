@@ -1,0 +1,76 @@
+[2022-03-14 15:30:00] production.ERROR: Class 'MehediIitdu\CoreComponentRepository\CoreComponentRepositoryServiceProvider' not found {"exception":"[object] (Error(code: 0): Class 'MehediIitdu\\CoreComponentRepository\\CoreComponentRepositoryServiceProvider' not found at C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:208)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(144): Illuminate\\Foundation\\ProviderRepository->createProvider('MehediIitdu\\\\Cor...')
+#1 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(659): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\xampp\\htdocs\\active_ecommerce_cms\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2022-03-14 15:46:33] local.ERROR: Class 'MehediIitdu\CoreComponentRepository\CoreComponentRepositoryServiceProvider' not found {"exception":"[object] (Error(code: 0): Class 'MehediIitdu\\CoreComponentRepository\\CoreComponentRepositoryServiceProvider' not found at C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:208)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(144): Illuminate\\Foundation\\ProviderRepository->createProvider('MehediIitdu\\\\Cor...')
+#1 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(659): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\xampp\\htdocs\\active_ecommerce_cms\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2022-03-14 15:55:53] local.ERROR: Call to a member function isDeferred() on null {"exception":"[object] (Error(code: 0): Call to a member function isDeferred() on null at C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:149)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#1 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(659): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#2 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#3 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#4 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#5 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 C:\\xampp\\htdocs\\active_ecommerce_cms\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#7 {main}
+"} 
+[2022-03-14 15:56:14] local.ERROR: Class 'Illuminate\Foundation\ProviderRepository' not found {"exception":"[object] (Error(code: 0): Class 'Illuminate\\Foundation\\ProviderRepository' not found at C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:658)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#1 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#2 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#3 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#4 C:\\xampp\\htdocs\\active_ecommerce_cms\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2022-03-14 15:57:46] local.ERROR: There are no commands defined in the "key" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"key\" namespace. at C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\symfony\\console\\Application.php:639)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\symfony\\console\\Application.php(690): Symfony\\Component\\Console\\Application->findNamespace('key')
+#1 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\symfony\\console\\Application.php(259): Symfony\\Component\\Console\\Application->find('key:generate')
+#2 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\symfony\\console\\Application.php(171): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(94): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 C:\\xampp\\htdocs\\active_ecommerce_cms\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2022-03-14 15:58:19] local.ERROR: There are no commands defined in the "key" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"key\" namespace. at C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\symfony\\console\\Application.php:639)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\symfony\\console\\Application.php(690): Symfony\\Component\\Console\\Application->findNamespace('key')
+#1 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\symfony\\console\\Application.php(259): Symfony\\Component\\Console\\Application->find('key:generate')
+#2 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\symfony\\console\\Application.php(171): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(94): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 C:\\xampp\\htdocs\\active_ecommerce_cms\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2022-03-14 15:59:26] local.ERROR: Class 'MehediIitdu\CoreComponentRepository\CoreComponentRepositoryServiceProvider' not found {"exception":"[object] (Error(code: 0): Class 'MehediIitdu\\CoreComponentRepository\\CoreComponentRepositoryServiceProvider' not found at C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:209)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(144): Illuminate\\Foundation\\ProviderRepository->createProvider('MehediIitdu\\\\Cor...')
+#1 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(662): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(239): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\xampp\\htdocs\\active_ecommerce_cms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\xampp\\htdocs\\active_ecommerce_cms\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
